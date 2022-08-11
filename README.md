@@ -1,4 +1,4 @@
-# potato
+# retronbv
 ### An interpreter for potato script
 #### made by retronbv
 
@@ -10,6 +10,6 @@ $ npm i ratinchat/retronscript -g
 
 **Running a RV file**
 ```
-$ potato script.rv
+$ retron script.rv
 This was written in retronbv script!
 ```
