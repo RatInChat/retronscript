@@ -2,7 +2,7 @@
 ### An interpreter for potato script
 #### made by ratinchat
 
-**Installing potatoscript cli**
+**Installing retroncript cli**
 
 ```sh
 $ npm i ratinchat/retronscript -g
