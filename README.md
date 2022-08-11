@@ -10,6 +10,6 @@ $ npm i ratinchat/retronscript -g
 
 **Running a RV file**
 ```
-$ retron script.rv
+$ retronbv script.rv
 This was written in retronbv script!
 ```
