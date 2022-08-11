@@ -7,18 +7,18 @@ const fs = require("fs");
 // Potato Script
 // Brainf*** but with potatoes
 // [  ]     <      >        +          -             .              ,
-// 🥔 🥔🥔 🥔🥔🥔 🥔🥔🥔🥔 🥔🥔🥔🥔🥔 🥔🥔🥔🥔🥔🥔 🥔🥔🥔🥔🥔🥔🥔 🥔🥔🥔🥔🥔🥔🥔🥔
-// confusing right?
+// r re ret retr retro retron retronb retronbv
+// confusing right? no it shouldnt be
 
 function convert(code) {
-  return code.replaceAll("🥔🥔🥔🥔🥔🥔🥔🥔", ",")
-    .replaceAll("🥔🥔🥔🥔🥔🥔🥔", ".")
-    .replaceAll("🥔🥔🥔🥔🥔🥔", "-")
-    .replaceAll("🥔🥔🥔🥔🥔", "+")
-    .replaceAll("🥔🥔🥔🥔", ">")
-    .replaceAll("🥔🥔🥔", "<")
-    .replaceAll("🥔🥔", "]")
-    .replaceAll("🥔", "[");
+  return code.replaceAll("retronbv", ",")
+    .replaceAll("retronb", ".")
+    .replaceAll("retron", "-")
+    .replaceAll("retro", "+")
+    .replaceAll("retr", ">")
+    .replaceAll("ret", "<")
+    .replaceAll("re", "]")
+    .replaceAll("r", "[");
 }
 
 function run(code) {
