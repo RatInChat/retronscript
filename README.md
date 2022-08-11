@@ -1,5 +1,5 @@
 # retronbv
-### An interpreter for potato script
+### An interpreter for  retronscript
 #### made by ratinchat
 
 **Installing retroncript cli**
