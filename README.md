@@ -1,6 +1,6 @@
 # retronbv
 ### An interpreter for potato script
-#### made by retronbv
+#### made by ratinchat
 
 **Installing potatoscript cli**
 
