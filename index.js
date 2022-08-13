@@ -4,8 +4,8 @@ const args = process.argv;
 args.shift(); args.shift(); // remove binary path and current directory
 const fs = require("fs");
 
-// Potato Script
-// Brainf*** but with potatoes
+// Retro Script
+// Brainf*** but with retronbv
 // [  ]     <      >        +          -             .              ,
 // r re ret retr retro retron retronb retronbv
 // confusing right? no it shouldnt be
