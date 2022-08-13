@@ -13,3 +13,5 @@ $ npm i ratinchat/retronscript -g
 $ retronbv script.rv
 This was written in retronbv script!
 ```
+
+Now the script.rv in the files above does not work. It's just there for show. Figure it out yourself.
